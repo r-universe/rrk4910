@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eemdARIMA"]
+	path = eemdARIMA
+	url = https://github.com/cran/eemdARIMA
+	shallow = true
+	registered = true
+[submodule "MSGARCHelm"]
+	path = MSGARCHelm
+	url = https://github.com/cran/MSGARCHelm
+	shallow = true
+	registered = true
+[submodule "SBAGM"]
+	path = SBAGM
+	url = https://github.com/cran/SBAGM
+	shallow = true
+	registered = true
