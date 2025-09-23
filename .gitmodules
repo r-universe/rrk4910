@@ -8,6 +8,9 @@
 [submodule "SBAGM"]
 	path = SBAGM
 	url = https://github.com/cran/SBAGM
+[submodule "SSAforecast"]
+	path = SSAforecast
+	url = https://github.com/cran/SSAforecast
 [submodule "compindPCA"]
 	path = compindPCA
 	url = https://github.com/cran/compindPCA
